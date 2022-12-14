@@ -69,8 +69,5 @@ Create .env file in root folder and add the following
 ```
 
 
-##### Demo
-
-
 > The given origin is not allowed for the given client ID (GSI) fix: 
 https://stackoverflow.com/questions/68438293/the-given-origin-is-not-allowed-for-the-given-client-id-gsi
