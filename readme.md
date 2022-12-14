@@ -4,6 +4,12 @@
 
 This is a MERN stack application that allows users to login with the new google SDK or local login. It is a full stack application with React on the front end, Node.js + Express.js server and MongoDB database.
 
+
+
+
+https://user-images.githubusercontent.com/70065792/207677595-74acec81-e510-4a3d-b3bc-fcf3791845d2.mp4
+
+
 ##### Features
 
 - Google signUp and  login
