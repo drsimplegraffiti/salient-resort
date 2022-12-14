@@ -6,8 +6,9 @@ This is a MERN stack application that allows users to login with the new google 
 
 ##### Features
 
-- Google login
-- Local login
+- Google signUp and  login
+- Local signUp and login
+- User profile page
 - Create, read, update and delete resorts and reviews [To be added]
 - Search resorts by name, location, price and rating [To be added]
 - Filter resorts by price and rating [To be added]
@@ -64,4 +65,6 @@ Create .env file in root folder and add the following
 
 ##### Demo
 
+
+> The given origin is not allowed for the given client ID (GSI) fix: 
 https://stackoverflow.com/questions/68438293/the-given-origin-is-not-allowed-for-the-given-client-id-gsi
